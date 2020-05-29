@@ -24,7 +24,14 @@ tqdm==4.32.2
 
 # How to run 
 
-For reproducing results of GraphMix(GCN) of Table1 in the paper, go to directory GraphMix/semisupervised/codes and run the following commands:
+For reproducing results of GraphMix(GCN) of Table1(B) in the paper, go to directory GraphMix/semisupervised/codes and run the following commands. This will reproduce:
+
+Cora 83.94±0.57
+
+Citesee 74.72±0.59
+
+Pubmed 80.98±0.55
+
 
 `python run_cora.py`
 
